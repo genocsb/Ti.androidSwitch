@@ -1,0 +1,10 @@
+<Alloy>
+	<View id="container" onClick="onClick">
+		<View id="backgroundContainer">
+			<View id="background" />
+		</View>
+		<View id="trackBallContainer">
+			<View id="trackBall" />
+		</View>
+	</View>
+</Alloy>

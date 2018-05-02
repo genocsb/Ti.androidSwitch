@@ -1,0 +1,24 @@
+"#container" : {
+	height: Titanium.UI.SIZE,
+	width: Titanium.UI.SIZE,
+	bubbleParent: false
+}
+"#backgroundContainer" : {
+	left: 2,
+	right: 2,
+	height: 14,
+	borderRadius: 7,
+	width: 34,
+	overrideCurrentAnimation: true
+}
+"#trackBallContainer" : {
+	height: 20,
+	width: 20,
+	borderRadius: 10,
+	overrideCurrentAnimation: true
+}
+"#trackBall" : {
+	height: 20,
+	width: 20,
+	overrideCurrentAnimation: true
+}

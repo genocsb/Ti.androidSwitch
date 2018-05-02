@@ -1,0 +1,13 @@
+{
+    "id": "androidSwitch",
+    "name": "androidSwitch",
+    "description": "",
+    "author": "Said CHAOUCHE",
+    "version": "1.0",
+    "copyright": "Copyright (c) 2018",
+    "license": "Public Domain",
+    "min-alloy-version": "1.0",
+    "min-titanium-version": "2.1",
+    "tags": "Switch, titanium, android",
+    "platforms": "android,ios"
+}
